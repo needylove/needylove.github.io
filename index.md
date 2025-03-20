@@ -17,7 +17,7 @@ I am a final-year Ph.D. student in the [CVML Group](https://cvml.comp.nus.edu.sg
 
 [2] **S. Zhang**, K. Kawaguchi, and A. Yao. Deep Regression Representation with Topology. ICML 2024. [[Paper]](https://arxiv.org/pdf/2404.13904), [[Code]](https://github.com/needylove/PH-Reg), [[Project]](https://needylove.github.io/PH-Reg/)
 
-[3] **S. Zhang**, L. Yang, M. Bi Mi, X. Zheng, and A. Yao. Improving Deep Regression with Ordinal Entropy. ICLR. 2023. [[Paper]](https://openreview.net/pdf?id=raU07GpP0P)), [[Code]](https://github.com/needylove/OrdinalEntropy), [[Project]](https://needylove.github.io/PH-Reg/)
+[3] **S. Zhang**, L. Yang, M. Bi Mi, X. Zheng, and A. Yao. Improving Deep Regression with Ordinal Entropy. ICLR. 2023. [[Paper]](https://openreview.net/pdf?id=raU07GpP0P), [[Code]](https://github.com/needylove/OrdinalEntropy), [[Project]](https://needylove.github.io/PH-Reg/)
 
 [4] **S. Zhang**, H. Fu, Y. Xu, Y. Liu, and M. Tan. Retinal Image Segmentation with Structure-Texture Demixing Network. MICCAI. 2020. [[Paper]](https://arxiv.org/pdf/2008.00817)
 
