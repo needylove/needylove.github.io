@@ -7,7 +7,7 @@ layout: homepage
 I am a final-year Ph.D. student in the [CVML Group](https://cvml.comp.nus.edu.sg/) at the National University of Singapore (NUS), supervised by [Prof. Angela Yao](https://www.comp.nus.edu.sg/~ayao/). My doctoral research focuses on **regression representation learning**, using information theory and topology as tools with a theoretical emphasis. In contrast, my master’s research was more application-oriented, concentrating on **medical image segmentation**. I previously earned my master’s and bachelor’s degrees from the South China University of Technology (SCUT), majoring in Software Engineering and Mathematics, respectively.
 
 - **Regression representation learning[1, 2, 3]**:  Exploring the differences between classification (with categorical targets) and regression representations (with continuous targets), providing a deeper understanding of both. The insights gained **benefit a wide range of regression tasks**, e.g., depth estimation, super-resolution, pose estimation, and age estimation.
-- **Medical image segmentation [4, 5, 6, 7]**: Exploring the structural and textural information and focusing on better segmenting blurred boundaries.
+- **Medical image segmentation [4, 5, 6, 7]**: Exploring the structural and textural information and focusing on better handling blurred boundaries.
 - **Additional Research Experience**: During the early stages of my master’s studies, I gained research experience in Click-Through Rate prediction and super-resolution. I also have experience in clinical research from my work at the Singapore National Eye Centre.
 
 
